@@ -3,6 +3,6 @@
 
 Modelos de Arquivos de Configuração de aplicações como:
 
-TMux
-Vim
-interfaces.conf
+TMuxrc
+Vimrc
+interfaces
